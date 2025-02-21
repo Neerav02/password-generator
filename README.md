@@ -1,0 +1,2 @@
+A Password Generator using HTML, CSS, and JavaScript creates secure random passwords based on user preferences. The HTML provides the UI, CSS styles it, and JavaScript generates a password by randomly selecting characters from a predefined set. The user clicks a button to generate a password, which is displayed in an input field. It helps improve security by creating strong, unpredictable passwords.
+link to visit the site :- https://neerav02.github.io/password-generator/
